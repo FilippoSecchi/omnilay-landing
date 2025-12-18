@@ -1,0 +1,177 @@
+{
+  "hero": {
+    "tagline": "You innovate,\nwe automate.",
+    "title": "Run autonomous systems on a",
+    "highlightedTitle": "scalable, modular infrastructure.",
+    "description": "Explore Exyra in real-time",
+    "subDescription": "Launch the dashboard to deploy, test and scale your agents on-chain.",
+    "cta": "Cerebrum v1.0",
+    "stats": [
+      { "value": "99.2%", "label": "Agent Uptime", "subLabel": "Monitored across all tiers" },
+      { "value": "+37.5%", "label": "Efficiency Boost", "subLabel": "Via modular compute allocation" }
+    ],
+    "sidebarCard": {
+        "title": "@ExyraLabs",
+        "subtitle": "// Latest X Post",
+        "image": "https://framerusercontent.com/images/k7O2gR6yW4F3tQ2gR6yW4F3tQ.png" 
+    }
+  },
+  "stack": {
+    "title": "Modular Stack",
+    "number": "001",
+    "label": "exyra",
+    "description": "A composable infrastructure of intelligent modules powering autonomous execution.",
+    "subDescription": "Every module in the Exyra stack is designed to handle a specific layer of automation, from inference to infrastructure, logic to execution. Use them independently or orchestrate them together as one unified intelligence.",
+    "cerebrum": {
+      "title": "Reasoning Engine",
+      "name": "Cerebrum"
+    },
+    "suite": {
+      "label": "Modular Agent Suite",
+      "count": "8/8",
+      "title": "Composable Intelligence for Autonomous Infrastructure",
+      "description": "Together, they form a unified execution layer for infrastructure that thinks, reacts and scales, without manual intervention."
+    },
+    "cards": [
+      { "title": "Logic Forge", "icon": "box" },
+      { "title": "AutoScale Nexus", "icon": "dial" },
+      { "title": "Synapse Mesh", "icon": "mesh" },
+      { "title": "Sentinel Layer", "icon": "lock" },
+      { "title": "Cerebrum v1.0", "badge": "Early beta access now available.", "progress": "84.7%", "cta": "Join early beta" }
+    ]
+  },
+  "core": {
+    "title": "Core Capabilities",
+    "number": "002",
+    "label": "exyra",
+    "description": "Modular agentic services for adaptive infrastructure and self-operating systems.",
+    "subDescription": "Autonomous systems that evolve with your needs.",
+    "services": [
+      {
+        "id": "01",
+        "title": "Cognitive Layer",
+        "description": "Exyra's self-optimizing reasoning engine, enabling agents to perceive, evaluate and act in milliseconds. Ideal for real-time ops and dynamic decision-making.",
+        "image": "https://framerusercontent.com/images/y9bKqX4Z3lM2nO1pQ5rS6tU7vW8.png",
+        "tag": "autonomy"
+      },
+      { "id": "02", "title": "Infrastructure" },
+      { "id": "03", "title": "Security" },
+      { "id": "04", "title": "Scalability" }
+    ],
+    "summary": {
+      "title": "Built for Autonomous Execution",
+      "description": "Exyra provides composable, plug-and-play services that automate infrastructure, optimize operations and protect your data, all with minimal developer input. Agents adapt continuously to shifting environments, enabling self-sustaining systems that scale with demand.",
+      "footer": "Deploy, reason, defend and grow."
+    }
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "number": "003",
+    "label": "exyra",
+    "description": "Autonomous execution, deployed in four stages.",
+    "subDescription": "From first connection to full orchestration, here's how Exyra activates your infrastructure.",
+    "stages": [
+      {
+        "phase": "Phase 1: Network Genesis",
+        "description": "The Exyra protocol begins with its on-chain activation, token deployment and Uniswap launch. Early users gain access to foundational features including wallet prompts and yield discovery simulations. This phase establishes token utility, circulating supply and the baseline logic that powers the system.",
+        "cta": "Dive In"
+      },
+      {
+        "phase": "Phase 2: Strategic Interface",
+        "description": "The MVP dashboard goes live, enabling users to interact with the system through natural language prompts. Cerebrum, Exyra's reasoning core is deployed to translate user goals into modular execution paths. Insight Nodes activate, providing adaptive suggestions from wallet context, yield flows and real-time signals.",
+        "timing": "6 weeks",
+        "subTiming": "From query to intent.",
+        "cta": "Dive In"
+      }
+    ]
+  },
+  "monitor": {
+    "title": "AI System Monitor",
+    "number": "004",
+    "label": "exyra",
+    "description": "Monitor every agent, process and signal in real time, with actionable metrics and AI powered insights built into the core.",
+    "subDescription": "Autonomous systems demand autonomous observability. Exyra delivers full-system awareness out of the box.",
+    "cerebrum": {
+      "title": "Cerebrum v1.0",
+      "tag": "exyra"
+    },
+    "network": {
+      "title": "Agent Network Status",
+      "subtitle": "State of core agent clusters",
+      "stats": [
+        { "label": "Active", "value": "66%" },
+        { "label": "Idle", "value": "25%" },
+        { "label": "Pending", "value": "9%" }
+      ]
+    },
+    "zones": {
+       "title": "Multi-Zone Agent Status",
+       "locations": [
+         { "city": "Amsterdam", "zone": "Zone EU-West-1", "status": "Fully Synced", "detail": "Latency drop: 24ms -> 11ms" },
+         { "city": "New York", "zone": "Zone US-East-2", "status": "Optimized", "detail": "Agent Sync Drift: 0.2s" },
+         { "city": "Dubai", "zone": "Zone ME-Central-1", "status": "Cluster Warming", "detail": "Agent Uptime: 54%" }
+       ]
+    },
+    "bottom": {
+      "uptime": "97.8%",
+      "agentOutput": { "optimized": "97%", "standard": "51%" },
+      "maturity": { "score": "86/100", "label": "Autonomy Maturity" },
+      "core": { "version": "Exyra Core v1.0", "battery": "99.6%" }
+    }
+  },
+  "tiers": {
+    "title": "Execution Tiers",
+    "number": "005",
+    "label": "exyra",
+    "description": "Modular execution layers. Engineered for scale and autonomy.",
+    "subDescription": "Choose the execution capacity that fits your system load, autonomy level and agent complexity.",
+    "items": [
+      {
+        "name": "Tier I",
+        "price": "100",
+        "currency": "EXYRA",
+        "plan": "Core Execution",
+        "capacity": "5",
+        "features": ["Smart Deployment", "Basic Monitoring", "Essential Agent Sync", "5 execution tokens / month", "Basic Logging", "Standard Agent API"]
+      },
+      {
+        "name": "Tier II",
+        "price": "181",
+        "currency": "EXYRA",
+        "plan": "Autonomous Tier",
+        "capacity": "15",
+        "features": ["All Tier I features", "AI-Enhanced Execution", "Adaptive Monitoring", "Tokenized Scaling", "Full Diagnostics", "Priority Agent API"]
+      },
+      {
+        "name": "Tier III",
+        "price": "507",
+        "currency": "EXYRA",
+        "plan": "Sovereign Layer",
+        "capacity": "100",
+        "features": ["All Tier II features", "Dedicated Nodes", "Private Data Plane", "Custom Runtime Config", "Governance-Enabled Features", "Enterprise Token Pool"]
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "number": "006",
+    "label": "exyra",
+    "description": "Everything you need to know to deploy smarter and scale faster.",
+    "subDescription": "Spend less time guessing and more time building.",
+    "questions": [
+      "What is Exyra?",
+      "How does Exyra's execution engine work?",
+      "What are Execution Tiers?",
+      "What makes Exyra different from other modular platforms?",
+      "What if an agent fails?",
+      "How does pricing work?",
+      "Is agent execution tamper-proof?",
+      "Does Exyra support multi-chain execution?"
+    ],
+    "footer": {
+      "title": "Questions or ideas?",
+      "description": "Need help deciding what Tier fits best or how to deploy agents? Our team is ready to guide you, let's chat and get you live.",
+      "cta": "Ask a question"
+    }
+  }
+}
