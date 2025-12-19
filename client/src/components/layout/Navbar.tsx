@@ -66,10 +66,10 @@ export function Navbar() {
               {link.name}
             </a>
           ))}
+        </div>
           <Button variant="outline" className="border-white/20 hover:bg-white hover:text-black text-white bg-transparent transition-all">
             Get Access
           </Button>
-        </div>
 
         {/* Mobile Toggle */}
         <button
